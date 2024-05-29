@@ -1,0 +1,43 @@
+body{
+  font-family: arial, sans-serif;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwh99L_QdwsMOwrT_PxRtEiloHUsB9ZXVnF9_RvMNU5A&s);
+
+}
+
+.container {
+  text-align: center;
+}
+
+.question {
+  height: 25vh;
+  text-align: center;
+  font-size: 5vh;
+  font-weight: bold;
+  backdrop-filter: blur(10px);
+  background-color: hsla(107, 100%, 50%, 0.263);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.answer {
+  height: 30vh;
+  width: 45vw;
+  backdrop-filter: blur(3px);
+  background-color: hsla(0, 100%, 50%, 0.6);
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 2vh;
+  color: white;
+}
+
+.answer-container {
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 4vh;
+  margin-top: 2vh;
+}

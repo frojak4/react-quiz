@@ -1,0 +1,83 @@
+[
+        {
+            "text": "Who won the best picture award at the 2024 Oscars?",
+            "answerOne": "Barbie",
+            "answerTwo": "Poor Things",
+            "answerThree": "Oppenheimer",
+            "answerFour": "Parasite",
+            "correctAnswer": 3
+        },
+        {
+            "text": "Which actor plays the role of Thor in the Marvel Cinematic Universe?",
+            "answerOne": "Chris Evans",
+            "answerTwo": "Chris Hemsworth",
+            "answerThree": "Chris Pratt",
+            "answerFour": "Chris Pine",
+            "correctAnswer": 2
+        },
+        {
+            "text": "Who is the lead singer of the Norwegian band a-ha?",
+            "answerOne": "Morten Harket",
+            "answerTwo": "Paul Waaktaar-Savoy",
+            "answerThree": "Magne Furuholmen",
+            "answerFour": "Kjetil Møster",
+            "correctAnswer": 1
+        },
+        {
+            "text": "In which year was the video game 'The Legend of Zelda: Breath of the Wild' released?",
+            "answerOne": "2015",
+            "answerTwo": "2016",
+            "answerThree": "2017",
+            "answerFour": "2018",
+            "correctAnswer": 3
+        },
+        {
+            "text": "Which American singer released the album '1989'?",
+            "answerOne": "Beyoncé",
+            "answerTwo": "Katy Perry",
+            "answerThree": "Taylor Swift",
+            "answerFour": "Lady Gaga",
+            "correctAnswer": 3
+        },
+        {
+            "text": "What is the name of the Norwegian TV series about a Viking chieftain named Kåre?",
+            "answerOne": "Ragnarok",
+            "answerTwo": "Norsemen",
+            "answerThree": "Vikingane",
+            "answerFour": "Beforeigners",
+            "correctAnswer": 2
+        },
+        {
+            "text": "Which film won the Palme d'Or at the 2022 Cannes Film Festival?",
+            "answerOne": "Triangle of Sadness",
+            "answerTwo": "Parasite",
+            "answerThree": "The Square",
+            "answerFour": "Shoplifters",
+            "correctAnswer": 1
+        },
+        {
+            "text": "Who voiced the character of Elsa in Disney's 'Frozen'?",
+            "answerOne": "Kristen Bell",
+            "answerTwo": "Idina Menzel",
+            "answerThree": "Ariana Grande",
+            "answerFour": "Demi Lovato",
+            "correctAnswer": 2
+        },
+        {
+            "text": "What is the name of the Norwegian artist who painted 'The Scream'?",
+            "answerOne": "Edvard Munch",
+            "answerTwo": "Gustav Vigeland",
+            "answerThree": "Harald Sohlberg",
+            "answerFour": "Nikolai Astrup",
+            "correctAnswer": 1
+        },
+        {
+            "text": "Which American TV series is set in the fictional town of Hawkins, Indiana?",
+            "answerOne": "Riverdale",
+            "answerTwo": "Stranger Things",
+            "answerThree": "Twin Peaks",
+            "answerFour": "Supernatural",
+            "correctAnswer": 2
+        }
+    ]
+
